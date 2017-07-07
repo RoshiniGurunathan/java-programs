@@ -1,0 +1,6 @@
+public class SetCollection
+{
+public static void main(String args[])
+{
+
+}

@@ -1,3 +1,23 @@
+/*  Compile time polymorphism is nothing but the method overloading in java.
+ In simple terms we can say that a class can have more than one methods with same name but with different number of arguments or 
+different types of arguments or both.
+syntax:
+======
+ class ClassName
+access specifier return_type methodName(args)
+{
+// return value;
+}
+Access specifier main className
+{
+//codes
+obj creation;
+}
+
+
+Example:
+========   */
+
 class DemoUp
 {
 
